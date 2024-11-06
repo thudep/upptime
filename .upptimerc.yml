@@ -6,7 +6,7 @@ sites:
   - name: Ghost Hunter homepage
     url: https://ghosthunter.thudep.com
   - name: Ghost Hunter gitea
-    url: https://gigit.thudep.com
+    url: https://ghgit.thudep.com
   - name: Ghost Hunter fileserver
     url: https://ghfile.thudep.com:4433
 
