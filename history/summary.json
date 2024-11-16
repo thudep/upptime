@@ -40,18 +40,19 @@
     "url": "https://ghfile.thudep.com:4433",
     "icon": "https://icons.duckduckgo.com/ip3/ghfile.thudep.com.ico",
     "slug": "ghost-hunter-fileserver",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
     "time": 1097,
     "timeDay": 1163,
     "timeWeek": 1106,
     "timeMonth": 1097,
     "timeYear": 1097,
     "dailyMinutesDown": {
+      "2024-11-16": 0,
       "2024-11-10": 72
     }
   },
@@ -60,17 +61,19 @@
     "url": "https://ghosthunter.thudep.com/leaderboard",
     "icon": "https://icons.duckduckgo.com/ip3/ghosthunter.thudep.com.ico",
     "slug": "ghost-hunter-leaderboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3428,
-    "timeDay": 803,
-    "timeWeek": 3428,
-    "timeMonth": 3428,
-    "timeYear": 3428,
-    "dailyMinutesDown": {}
+    "time": 3108,
+    "timeDay": 675,
+    "timeWeek": 3108,
+    "timeMonth": 3108,
+    "timeYear": 3108,
+    "dailyMinutesDown": {
+      "2024-11-16": 0
+    }
   }
 ]
