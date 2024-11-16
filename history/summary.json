@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 149,
-    "timeWeek": 185,
-    "timeMonth": 179,
-    "timeYear": 179,
+    "time": 176,
+    "timeDay": 132,
+    "timeWeek": 186,
+    "timeMonth": 176,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 822,
-    "timeDay": 855,
-    "timeWeek": 794,
+    "timeDay": 826,
+    "timeWeek": 799,
     "timeMonth": 822,
     "timeYear": 822,
     "dailyMinutesDown": {}
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ghfile.thudep.com.ico",
     "slug": "ghost-hunter-fileserver",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
-    "time": 1093,
-    "timeDay": 1119,
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
+    "time": 1097,
+    "timeDay": 1163,
     "timeWeek": 1106,
-    "timeMonth": 1093,
-    "timeYear": 1093,
+    "timeMonth": 1097,
+    "timeYear": 1097,
     "dailyMinutesDown": {
       "2024-11-10": 72
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3803,
-    "timeDay": 814,
-    "timeWeek": 3803,
-    "timeMonth": 3803,
-    "timeYear": 3803,
+    "time": 3428,
+    "timeDay": 803,
+    "timeWeek": 3428,
+    "timeMonth": 3428,
+    "timeYear": 3428,
     "dailyMinutesDown": {}
   }
 ]
