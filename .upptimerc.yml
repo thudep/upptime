@@ -17,6 +17,8 @@ sites:
     url: https://bin.thudep.com
   - name: C Language Contest fileserver
     url: https://cfile.thudep.com:6443
+  - name: Hedgedoc
+    url: https://doc.thudep.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
