@@ -8,7 +8,7 @@ sites:
   - name: Ghost Hunter gitea
     url: https://ghgit.thudep.com
   - name: Ghost Hunter fileserver
-    url: https://ghfile.thudep.com:4433
+    url: https://ghfile.thudep.com:7200
   - name: Ghost Hunter Leaderboard
     url: https://ghosthunter.thudep.com/leaderboard
   - name: C Language Contest homepage
@@ -16,7 +16,11 @@ sites:
   - name: Pastebin
     url: https://bin.thudep.com
   - name: C Language Contest fileserver
-    url: https://cfile.thudep.com:6443
+    url: https://cfile.thudep.com:7100
+  - name: Radiation Imaging Contest homepage
+    url: https://ri.thudep.com
+  - name: Radiation Imaging Contest fileserver
+    url: https://rifile.thudep.com:7300
   - name: Hedgedoc
     url: https://doc.thudep.com
 
