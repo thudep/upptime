@@ -1,7 +1,7 @@
 url: https://rifile.thudep.com:7300
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-29T04:44:11.980Z
+status: up
+code: 200
+responseTime: 1152
+lastUpdated: 2025-05-29T05:54:52.918Z
 startTime: 2025-04-19T09:50:22.570Z
 generator: Upptime <https://github.com/upptime/upptime>
