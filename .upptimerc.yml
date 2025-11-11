@@ -10,7 +10,7 @@ sites:
   - name: Ghost Hunter fileserver
     url: https://ghfile.thudep.com:7200
   - name: Ghost Hunter Leaderboard
-    url: https://ghosthunter.thudep.com/leaderboard
+    url: https://gh-leaderboard.thudep.com
   - name: C Language Contest homepage
     url: https://clang.thudep.com
   - name: Pastebin
