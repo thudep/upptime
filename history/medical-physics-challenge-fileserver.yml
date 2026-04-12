@@ -1,7 +1,7 @@
 url: https://mpcfile.thudep.com:7300
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-12T06:02:45.613Z
+status: up
+code: 200
+responseTime: 1022
+lastUpdated: 2026-04-12T08:09:51.866Z
 startTime: 2026-04-06T14:27:46.817Z
 generator: Upptime <https://github.com/upptime/upptime>
