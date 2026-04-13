@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 169,
-    "timeDay": 226,
-    "timeWeek": 159,
-    "timeMonth": 143,
+    "timeDay": 141,
+    "timeWeek": 148,
+    "timeMonth": 145,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2025-11-18": 196,
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ghgit.thudep.com.ico",
     "slug": "ghost-hunter-gitea",
     "status": "up",
-    "uptime": "70.41%",
+    "uptime": "70.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "71.82%",
     "time": 666,
-    "timeDay": 899,
-    "timeWeek": 815,
-    "timeMonth": 742,
+    "timeDay": 846,
+    "timeWeek": 816,
+    "timeMonth": 750,
     "timeYear": 721,
     "dailyMinutesDown": {
       "2026-02-26": 224,
@@ -160,8 +160,7 @@
       "2025-04-17": 33,
       "2025-04-16": 47,
       "2025-04-15": 397,
-      "2025-04-14": 777,
-      "2025-04-13": 524
+      "2025-04-14": 777
     }
   },
   {
@@ -170,16 +169,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ghfile.thudep.com.ico",
     "slug": "ghost-hunter-fileserver",
     "status": "up",
-    "uptime": "92.57%",
+    "uptime": "92.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.17%",
+    "uptimeYear": "95.40%",
     "time": 1137,
-    "timeDay": 1073,
-    "timeWeek": 1081,
-    "timeMonth": 1120,
-    "timeYear": 1139,
+    "timeDay": 1232,
+    "timeWeek": 1110,
+    "timeMonth": 1131,
+    "timeYear": 1140,
     "dailyMinutesDown": {
       "2026-03-02": 38,
       "2026-01-07": 50,
@@ -212,8 +211,7 @@
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
-      "2025-04-14": 1440,
-      "2025-04-13": 1440
+      "2025-04-14": 1440
     }
   },
   {
@@ -222,15 +220,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gh-leaderboard.thudep.com.ico",
     "slug": "ghost-hunter-leaderboard",
     "status": "up",
-    "uptime": "67.95%",
+    "uptime": "68.00%",
     "uptimeDay": "91.16%",
     "uptimeWeek": "71.18%",
     "uptimeMonth": "82.73%",
     "uptimeYear": "59.80%",
     "time": 874,
-    "timeDay": 574,
+    "timeDay": 578,
     "timeWeek": 556,
-    "timeMonth": 608,
+    "timeMonth": 615,
     "timeYear": 855,
     "dailyMinutesDown": {
       "2026-04-12": 127,
@@ -399,8 +397,7 @@
       "2025-04-27": 1440,
       "2025-04-26": 1392,
       "2025-04-15": 19,
-      "2025-04-14": 53,
-      "2025-04-13": 20
+      "2025-04-14": 53
     }
   },
   {
@@ -415,10 +412,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 161,
-    "timeDay": 247,
-    "timeWeek": 161,
-    "timeMonth": 135,
-    "timeYear": 167,
+    "timeDay": 164,
+    "timeWeek": 162,
+    "timeMonth": 138,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2025-11-18": 160,
       "2025-06-12": 66
@@ -436,9 +433,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 171,
-    "timeDay": 235,
-    "timeWeek": 183,
-    "timeMonth": 152,
+    "timeDay": 153,
+    "timeWeek": 175,
+    "timeMonth": 154,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2026-02-24": 62,
@@ -451,15 +448,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfile.thudep.com.ico",
     "slug": "c-language-contest-fileserver",
     "status": "up",
-    "uptime": "93.22%",
+    "uptime": "93.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.21%",
+    "uptimeYear": "95.44%",
     "time": 1145,
-    "timeDay": 1170,
-    "timeWeek": 1075,
-    "timeMonth": 1031,
+    "timeDay": 1234,
+    "timeWeek": 1111,
+    "timeMonth": 1041,
     "timeYear": 1149,
     "dailyMinutesDown": {
       "2026-01-07": 49,
@@ -490,8 +487,7 @@
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
-      "2025-04-14": 1440,
-      "2025-04-13": 1440
+      "2025-04-14": 1440
     }
   },
   {
@@ -505,11 +501,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 113,
-    "timeWeek": 120,
-    "timeMonth": 120,
-    "timeYear": 120,
+    "time": 115,
+    "timeDay": 82,
+    "timeWeek": 115,
+    "timeMonth": 115,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   },
   {
@@ -518,16 +514,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mpcfile.thudep.com.ico",
     "slug": "medical-physics-challenge-fileserver",
     "status": "up",
-    "uptime": "64.84%",
+    "uptime": "69.22%",
     "uptimeDay": "91.17%",
-    "uptimeWeek": "64.84%",
-    "uptimeMonth": "64.84%",
-    "uptimeYear": "64.84%",
-    "time": 1086,
-    "timeDay": 1069,
-    "timeWeek": 1086,
-    "timeMonth": 1086,
-    "timeYear": 1086,
+    "uptimeWeek": "69.22%",
+    "uptimeMonth": "69.22%",
+    "uptimeYear": "69.22%",
+    "time": 1109,
+    "timeDay": 1143,
+    "timeWeek": 1109,
+    "timeMonth": 1109,
+    "timeYear": 1109,
     "dailyMinutesDown": {
       "2026-04-12": 127,
       "2026-04-11": 313,
@@ -541,15 +537,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/doc.thudep.com.ico",
     "slug": "hedgedoc",
     "status": "up",
-    "uptime": "89.01%",
+    "uptime": "89.03%",
     "uptimeDay": "91.17%",
     "uptimeWeek": "71.18%",
     "uptimeMonth": "82.73%",
     "uptimeYear": "87.35%",
-    "time": 826,
-    "timeDay": 721,
-    "timeWeek": 741,
-    "timeMonth": 778,
+    "time": 827,
+    "timeDay": 854,
+    "timeWeek": 778,
+    "timeMonth": 784,
     "timeYear": 838,
     "dailyMinutesDown": {
       "2026-04-12": 127,
@@ -617,8 +613,7 @@
       "2025-05-28": 157,
       "2025-05-26": 102,
       "2025-04-15": 19,
-      "2025-04-14": 58,
-      "2025-04-13": 20
+      "2025-04-14": 58
     }
   }
 ]
