@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ghgit.thudep.com.ico",
     "slug": "ghost-hunter-gitea",
     "status": "up",
-    "uptime": "74.00%",
+    "uptime": "74.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.28%",
@@ -199,11 +199,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gh-leaderboard.thudep.com.ico",
     "slug": "ghost-hunter-leaderboard",
     "status": "down",
-    "uptime": "70.92%",
+    "uptime": "70.91%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.39%",
-    "uptimeMonth": "82.43%",
-    "uptimeYear": "61.32%",
+    "uptimeWeek": "74.53%",
+    "uptimeMonth": "82.24%",
+    "uptimeYear": "61.30%",
     "time": 808,
     "timeDay": 33,
     "timeWeek": 443,
@@ -370,7 +370,7 @@
       "2026-06-11": 562,
       "2026-06-20": 640,
       "2026-06-19": 45,
-      "2026-07-01": 286,
+      "2026-07-01": 373,
       "2026-06-30": 1440,
       "2026-06-29": 755
     }
@@ -510,17 +510,17 @@
     "url": "https://doc.thudep.com",
     "icon": "https://icons.duckduckgo.com/ip3/doc.thudep.com.ico",
     "slug": "hedgedoc",
-    "status": "up",
+    "status": "down",
     "uptime": "89.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.11%",
     "uptimeYear": "86.00%",
-    "time": 836,
-    "timeDay": 1068,
-    "timeWeek": 1036,
-    "timeMonth": 852,
-    "timeYear": 865,
+    "time": 834,
+    "timeDay": 558,
+    "timeWeek": 912,
+    "timeMonth": 830,
+    "timeYear": 863,
     "dailyMinutesDown": {
       "2025-07-11": 469,
       "2025-08-05": 896,
@@ -592,7 +592,8 @@
       "2026-06-12": 652,
       "2026-06-11": 562,
       "2026-06-20": 641,
-      "2026-06-19": 45
+      "2026-06-19": 45,
+      "2026-07-01": 0
     }
   }
 ]
