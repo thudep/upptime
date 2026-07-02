@@ -198,16 +198,16 @@
     "url": "https://gh-leaderboard.thudep.com",
     "icon": "https://icons.duckduckgo.com/ip3/gh-leaderboard.thudep.com.ico",
     "slug": "ghost-hunter-leaderboard",
-    "status": "down",
-    "uptime": "70.89%",
-    "uptimeDay": "59.00%",
-    "uptimeWeek": "69.01%",
-    "uptimeMonth": "80.97%",
-    "uptimeYear": "61.19%",
+    "status": "up",
+    "uptime": "70.88%",
+    "uptimeDay": "59.02%",
+    "uptimeWeek": "67.31%",
+    "uptimeMonth": "80.57%",
+    "uptimeYear": "61.16%",
     "time": 807,
-    "timeDay": 631,
-    "timeWeek": 475,
-    "timeMonth": 564,
+    "timeDay": 647,
+    "timeWeek": 495,
+    "timeMonth": 567,
     "timeYear": 769,
     "dailyMinutesDown": {
       "2025-07-11": 866,
@@ -373,7 +373,7 @@
       "2026-07-01": 929,
       "2026-06-30": 1440,
       "2026-06-29": 755,
-      "2026-07-02": 0
+      "2026-07-02": 172
     }
   },
   {
@@ -511,17 +511,17 @@
     "url": "https://doc.thudep.com",
     "icon": "https://icons.duckduckgo.com/ip3/doc.thudep.com.ico",
     "slug": "hedgedoc",
-    "status": "down",
-    "uptime": "89.48%",
-    "uptimeDay": "61.35%",
-    "uptimeWeek": "94.48%",
-    "uptimeMonth": "86.84%",
-    "uptimeYear": "85.90%",
-    "time": 835,
-    "timeDay": 693,
-    "timeWeek": 887,
-    "timeMonth": 827,
-    "timeYear": 863,
+    "status": "up",
+    "uptime": "89.46%",
+    "uptimeDay": "59.03%",
+    "uptimeWeek": "92.78%",
+    "uptimeMonth": "86.45%",
+    "uptimeYear": "85.87%",
+    "time": 836,
+    "timeDay": 994,
+    "timeWeek": 919,
+    "timeMonth": 838,
+    "timeYear": 864,
     "dailyMinutesDown": {
       "2025-07-11": 469,
       "2025-08-05": 896,
@@ -595,7 +595,7 @@
       "2026-06-20": 641,
       "2026-06-19": 45,
       "2026-07-01": 556,
-      "2026-07-02": 0
+      "2026-07-02": 172
     }
   }
 ]
