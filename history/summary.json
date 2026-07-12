@@ -196,8 +196,8 @@
     "slug": "ghost-hunter-leaderboard",
     "status": "down",
     "uptime": "71.27%",
-    "uptimeDay": "53.91%",
-    "uptimeWeek": "93.42%",
+    "uptimeDay": "53.76%",
+    "uptimeWeek": "93.39%",
     "uptimeMonth": "88.42%",
     "uptimeYear": "61.24%",
     "time": 804,
@@ -368,7 +368,7 @@
       "2026-06-30": 1440,
       "2026-06-29": 755,
       "2026-07-02": 172,
-      "2026-07-12": 222,
+      "2026-07-12": 224,
       "2026-07-11": 442
     }
   },
@@ -505,16 +505,16 @@
     "url": "https://doc.thudep.com",
     "icon": "https://icons.duckduckgo.com/ip3/doc.thudep.com.ico",
     "slug": "hedgedoc",
-    "status": "down",
+    "status": "up",
     "uptime": "89.57%",
-    "uptimeDay": "53.92%",
-    "uptimeWeek": "93.42%",
+    "uptimeDay": "53.79%",
+    "uptimeWeek": "93.40%",
     "uptimeMonth": "94.28%",
     "uptimeYear": "85.83%",
     "time": 839,
-    "timeDay": 35,
-    "timeWeek": 760,
-    "timeMonth": 923,
+    "timeDay": 296,
+    "timeWeek": 766,
+    "timeMonth": 921,
     "timeYear": 861,
     "dailyMinutesDown": {
       "2025-08-05": 896,
@@ -589,7 +589,7 @@
       "2026-06-19": 45,
       "2026-07-01": 556,
       "2026-07-02": 172,
-      "2026-07-12": 222,
+      "2026-07-12": 224,
       "2026-07-11": 441
     }
   }
