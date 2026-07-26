@@ -190,16 +190,16 @@
     "url": "https://gh-leaderboard.thudep.com",
     "icon": "https://icons.duckduckgo.com/ip3/gh-leaderboard.thudep.com.ico",
     "slug": "ghost-hunter-leaderboard",
-    "status": "up",
+    "status": "down",
     "uptime": "70.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "71.38%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "71.86%",
     "uptimeMonth": "63.59%",
     "uptimeYear": "58.96%",
-    "time": 792,
-    "timeDay": 745,
-    "timeWeek": 534,
-    "timeMonth": 446,
+    "time": 791,
+    "timeDay": 650,
+    "timeWeek": 517,
+    "timeMonth": 449,
     "timeYear": 735,
     "dailyMinutesDown": {
       "2025-07-31": 291,
@@ -375,7 +375,8 @@
       "2026-07-19": 200,
       "2026-07-24": 844,
       "2026-07-23": 1440,
-      "2026-07-22": 552
+      "2026-07-22": 552,
+      "2026-07-26": 1
     }
   },
   {
@@ -483,11 +484,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mpcfile.thudep.com.ico",
     "slug": "medical-physics-challenge-fileserver",
     "status": "up",
-    "uptime": "95.56%",
+    "uptime": "95.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.56%",
+    "uptimeYear": "95.57%",
     "time": 1061,
     "timeDay": 1030,
     "timeWeek": 1047,
@@ -511,17 +512,17 @@
     "url": "https://doc.thudep.com",
     "icon": "https://icons.duckduckgo.com/ip3/doc.thudep.com.ico",
     "slug": "hedgedoc",
-    "status": "up",
+    "status": "down",
     "uptime": "89.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "71.38%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "71.86%",
     "uptimeMonth": "87.96%",
     "uptimeYear": "85.09%",
-    "time": 840,
-    "timeDay": 1320,
-    "timeWeek": 795,
-    "timeMonth": 819,
-    "timeYear": 852,
+    "time": 838,
+    "timeDay": 676,
+    "timeWeek": 716,
+    "timeMonth": 801,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2025-08-05": 896,
       "2025-08-04": 1440,
@@ -602,7 +603,8 @@
       "2026-07-19": 200,
       "2026-07-24": 844,
       "2026-07-23": 1440,
-      "2026-07-22": 552
+      "2026-07-22": 552,
+      "2026-07-26": 0
     }
   }
 ]
